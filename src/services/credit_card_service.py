@@ -1,3 +1,5 @@
+# Version: 1.0
+# Developed by: Márcio Rodrigo
 from typing import Optional, Dict
 
 from azure.core.credentials import AzureKeyCredential

@@ -1,3 +1,5 @@
+# Version: 1.0
+# Developed by: Márcio Rodrigo
 import streamlit as st
 from azure.storage.blob import BlobServiceClient, PublicAccess
 from utils.Config import Config

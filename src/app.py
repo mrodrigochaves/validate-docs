@@ -1,3 +1,5 @@
+# Version: 1.0
+# Developed by: Márcio Rodrigo
 import streamlit as st
 from services.blob_service import upload_blob
 from services.credit_card_service import analyze_credit_card
