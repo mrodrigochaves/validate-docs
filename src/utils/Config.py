@@ -1,3 +1,5 @@
+# Version: 1.0
+# Developed by: Márcio Rodrigo
 import os
 from dotenv import load_dotenv
 
